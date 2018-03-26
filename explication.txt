@@ -1,0 +1,24 @@
+API DOM // JAVASCIPT VAS UTILISE L'API " POUR MANIPULER UN FICHIER HTML;
+LES OBJECTS 
+WINDOW "CEST LE NAVIGATEUR 
+
+
+
+DOCUMENT
+*document.getElementById()
+
+HTMLElement(id,innerHTML, contentText,className.....)
+                      ****HTMLDivElement
+                      ****HTMLInputElement(value)
+
+var inpName = document.getElementByID('inpName');
+inpName.value //pour recuperer un object 
+
+
+//des methode de window
+
+ALERT("yop");
+var variable = prompt("Age");
+
+//document
+document.getElementById() 

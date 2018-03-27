@@ -7,3 +7,16 @@ width: 100%;
 text-align: center;
 height: 100%;
 }
+.img{
+height: 25em;
+width: 35em;
+
+}
+#p1{
+    background-color: beige;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#le{
+    text-align: center;
+}
